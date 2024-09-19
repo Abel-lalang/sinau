@@ -1,0 +1,2 @@
+# sinau
+percobaan 1
